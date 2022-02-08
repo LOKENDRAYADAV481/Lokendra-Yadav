@@ -1,2 +1,44 @@
-# Google App Engine generated folder
-appengine-generated/
+<html>
+<head>
+<title> Lokendra's web </title> </head>
+<body bgcolor="skyblue"> <H1 align="center"><font color="red">Computer</font></h1>
+<hr color="red" size="20">
+<marquee bgcolor="Yellow" 
+direction="right" 
+behavior="alternate"><font color="green" size="5"> Welcome to My Website</font></marquee>
+<hr color="red" size="20">
+
+<br> The Features Of Computer
+<ol type"I"> 
+<li> Speed
+<li> diligence
+<li> Accuracy
+<li> Storage
+</ol>
+<table border="2" BGCOLOR="WHITE" align="CENTER"> 
+    <tr> 
+    <th>S.N</th>    
+    <th>NAME</th>
+    <th>MARKS</th>
+    </tr>
+    <tr>
+        <TD>1</TD>
+        <TD>LOKENDRA YADAV</TD>
+        <TD>790</TD>
+    </tr>
+    <TR>
+        <TD>
+        2
+        </TD>
+        <TD>GHANA YADAV</TD>
+        <TD>780</TD>
+       <TR>
+        <td>3</td>
+        <TD>RAM SAH</TD>
+        <TD>300</TD>
+        </TR>
+    </TR>
+<caption><FONT COLOR="RED">STUDENT INFO</FONT></caption>
+</table>
+</body>
+</html>
